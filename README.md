@@ -1,5 +1,6 @@
 # Basic-version-of-TCS
-The code of buss
+The code of Proposed Lp Norm Minimization
+Based Source Reconstruction.
 ### Reference
 <b>Under-determined convolutive blind source separation combining density-based
 clustering and sparse reconstruction in time-frequency domain</b><br>
